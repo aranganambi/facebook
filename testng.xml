@@ -1,0 +1,15 @@
+<?xml version="1.0"  encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="classes" name="Suite">
+	<test thread-count="5" name="Test">
+		<classes>
+			<!-- <class name="limiting_Driver.Nauckri2"></class> -->
+			<class name="rahulShettyNotes.Dynamic_DropDown"></class>
+			<class name="rahul_Notes_GreenKart.Add_To_Kart_Multiple_Products"></class>
+			
+
+		</classes>
+	</test> <!--
+	Test -->
+</suite> <!--
+Suite -->
