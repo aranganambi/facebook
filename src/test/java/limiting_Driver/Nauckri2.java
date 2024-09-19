@@ -72,8 +72,6 @@ public class Nauckri2 {
 		// remote
 		driver.findElement(By.xpath("//*[text()='Remote']")).click();
 		Thread.sleep(2000);
-		//Temp. WFH due to covid
-		//driver.findElement(By.xpath("//*[text()='Temp. WFH due to covid']")).click();
 	}
 
 	public static void limiting_Driver() throws InterruptedException {
